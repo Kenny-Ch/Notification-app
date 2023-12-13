@@ -1,6 +1,8 @@
 # notification-app
 
-An Electron application with Vue
+Realize the multi-person joint reminder function in the LAN
+![image](https://github.com/Kenny-Ch/Notification-app/assets/54130213/fac725ad-99f0-409b-8228-073b7ee785ac)
+
 
 ## Recommended IDE Setup
 
